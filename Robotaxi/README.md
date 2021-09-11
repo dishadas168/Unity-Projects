@@ -53,4 +53,4 @@ Given identical circumstances, favorability ratings for Robotaxi (Mdn=3) were hi
 
 **Survey Link:** https://tarushree.github.io/hri.github.io  
 
-![scenarios](IMG.PNG)
+![scenarios](IMG1.png)
